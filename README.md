@@ -1,6 +1,8 @@
 elastic_beanstalk
 =========
 
+Based on: https://github.com/hsingh/ansible-elastic-beanstalk
+
 Ansible modules for working with Amazon Elastic Beanstalk
 
 Requirements
